@@ -1,0 +1,14 @@
+C:\Users\nihad\source\repos\newhomework\newhomework\bin\Debug\net6.0\newhomework.exe
+C:\Users\nihad\source\repos\newhomework\newhomework\bin\Debug\net6.0\newhomework.deps.json
+C:\Users\nihad\source\repos\newhomework\newhomework\bin\Debug\net6.0\newhomework.runtimeconfig.json
+C:\Users\nihad\source\repos\newhomework\newhomework\bin\Debug\net6.0\newhomework.dll
+C:\Users\nihad\source\repos\newhomework\newhomework\bin\Debug\net6.0\newhomework.pdb
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.AssemblyInfoInputs.cache
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.AssemblyInfo.cs
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.csproj.CoreCompileInputs.cache
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.dll
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\refint\newhomework.dll
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.pdb
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\newhomework.genruntimeconfig.cache
+C:\Users\nihad\source\repos\newhomework\newhomework\obj\Debug\net6.0\ref\newhomework.dll
