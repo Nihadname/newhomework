@@ -27,3 +27,21 @@ else
 {
     Console.WriteLine("nezere alinmayıb");
 }
+
+Console.WriteLine("hundurluk daxil edin");
+int hundurluk=int.Parse(Console.ReadLine());
+Console.WriteLine("eni daxil et");
+int  eni= int.Parse(Console.ReadLine());
+Console.WriteLine("uzunluq");
+int uzunluq=int.Parse(Console.ReadLine());
+
+int e = 67;
+int h = 350;
+if((eni <= e && hundurluk <= h) || (eni <= e && uzunluq <= h) || (uzunluq <= e && hundurluk <= h) || (uzunluq <= e && eni <= h) || (hundurluk <= e && uzunluq <= h) || (hundurluk <= e && eni <= h))
+{
+    Console.WriteLine("bu kecek");
+}
+else
+{
+    Console.WriteLine("kecmeycek");
+}
