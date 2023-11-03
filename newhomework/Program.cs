@@ -11,7 +11,7 @@ int number02=int.Parse(number2);
 int result=number01 + number02;
 string resultAsString = result.ToString();
 //Console.WriteLine(result);
-foreach (int num in resultAsString)
+foreach (Char num in resultAsString)
 {
     increasment++;//kodda ele bilki her birini  goturub hesapliyacaq yeni meslen 123 olacaq '1','2','3'
 }
